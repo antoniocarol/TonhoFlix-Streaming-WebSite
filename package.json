@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "axios": "^1.2.1",
+    "date-fns": "^2.29.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  "name": "desafio-frontend-m02-dds-t09",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniocarol/desafio-frontend-m02-dds-t09.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniocarol/desafio-frontend-m02-dds-t09/issues"
+  },
+  "homepage": "https://github.com/antoniocarol/desafio-frontend-m02-dds-t09#readme"
+}
